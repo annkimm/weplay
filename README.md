@@ -7,7 +7,7 @@
     <td>25</td>
     <td>22</td>
     <td>23</td>
-    <td>3</td>
+    <td>(3)</td>
 </tr>
 <tr>
     <td>24</td>
